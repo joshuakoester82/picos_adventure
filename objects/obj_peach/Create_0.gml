@@ -1,0 +1,10 @@
+init_angle = image_angle;
+time = irandom(100);
+spd = irandom(10)+10;
+amp_dir = 0;
+amptimer = 10;
+amp = 0;
+size = image_xscale;
+snd_freq = 0.5;
+depth = 1;
+state = 0;

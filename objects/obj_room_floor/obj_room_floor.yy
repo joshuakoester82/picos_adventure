@@ -1,0 +1,91 @@
+{
+    "id": "11655757-4fe6-41e2-80ef-a7c97bf46609",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_room_floor",
+    "eventList": [
+        {
+            "id": "d8069497-0043-4987-9601-c715ded7a0f1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "11655757-4fe6-41e2-80ef-a7c97bf46609"
+        },
+        {
+            "id": "6989f57f-5086-4b9a-ad37-153b6df80855",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "11655757-4fe6-41e2-80ef-a7c97bf46609"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "d262fb5f-21a6-4cef-881f-eb188b0a7512",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "f0e956d3-4039-47ef-9362-d1e356a9b37b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "group_id",
+            "varType": 0
+        },
+        {
+            "id": "c0bc0635-8a66-4f23-a44e-a0b197f58805",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "50",
+            "varName": "HP",
+            "varType": 0
+        },
+        {
+            "id": "bd67cfa2-2b6a-488a-8d14-54bd6f3d4253",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "Beauty",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "6a08c8ff-b435-4bd1-b835-f7a461194275",
+    "visible": false
+}

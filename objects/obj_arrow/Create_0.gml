@@ -1,0 +1,2 @@
+//vars
+trans = 0;

@@ -1,0 +1,32 @@
+{
+    "id": "7ea5164e-6bbc-485b-974c-0b6ea6935749",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "7ea5164e-6bbc-485b-974c-0b6ea6935749",
+    "children": [
+        "74b211df-86ab-44c4-a0ef-0f577f16eed6",
+        "72e46f69-5ab7-4062-9239-1580f1301008",
+        "e3233fb5-a3c8-4db8-8e66-28056f216279",
+        "cc87b561-bf55-4d09-8de2-f493f65a8e1c",
+        "54b5b72d-c836-4f56-835c-1e573806cad0",
+        "e1f8c448-b7d8-4905-b1b5-78000815d095",
+        "4ac043ba-420c-4bf5-92e2-5f4a0ea0f327",
+        "71fd2ada-8b02-4d3d-af98-7ffc54261f53",
+        "b6708be5-29ba-4a2c-ae23-560c3f3e381e",
+        "16e09277-0084-4bff-a783-6edfc0ebbdbc",
+        "3e8a760c-f58f-416a-a572-3289fb2e3d0a",
+        "a04db28e-8753-42be-a274-a99b01a62d53",
+        "20d26b03-19fe-4d9b-aab8-f812ad5018c6",
+        "cc6a08be-7885-43e4-9a14-8008747e1fc6",
+        "c6fde819-bc59-41c3-b818-0ec67cc659dc",
+        "21542b91-713c-44a6-b3d5-cc17fa80406c",
+        "c1d9b24c-ff08-43db-80c9-2d8156cb0484",
+        "c8b75ffc-85f6-4fda-921c-3add6729fdb8",
+        "f4cb1a82-022d-4a6c-8aed-27fe42643478",
+        "e14f1a6c-d1ae-4089-894b-7650ae569081"
+    ],
+    "filterType": "GMSound",
+    "folderName": "darkness",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

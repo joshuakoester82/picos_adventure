@@ -1,0 +1,2 @@
+//init
+buffer = 0;

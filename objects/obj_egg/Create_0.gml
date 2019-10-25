@@ -1,0 +1,9 @@
+dist_from_player = 0;
+hatch_range = choose(200,300,500);
+spawn_countdown = random_range(160,400);
+in_egg = choose(obj_enemy1);
+flag_hatching = false;
+txscale = 1;
+tyscale = 1;
+squish_timer = 30;
+squish_flag = false;

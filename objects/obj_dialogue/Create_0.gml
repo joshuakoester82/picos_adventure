@@ -1,0 +1,9 @@
+dialogue_alpha = 0;
+flag_visible = false;
+ttext = "This is the text I wish to display. It is just an example so that's why it's mostly just random words without thought. Wakka wakka wakka.";
+ctext = "";
+texttimer = 0;
+dialogue[0] = "Hello there little seedling. The forest is in great danger and is in need of your help!"
+dialogue[1] = "Quickly! Press SPACE BAR to grow! The forest needs you please hurry!";
+dialogue[2] = "";
+diag_index = 0;

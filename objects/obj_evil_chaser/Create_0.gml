@@ -1,0 +1,11 @@
+randomize();
+hp = 10;
+damage = 1;
+xspd = 0;
+yspd = 0;
+accel = random_range(0.01,0.1);
+scaler = choose(0.2,0.3,0.35,0.4);
+image_xscale = scaler;
+image_yscale = scaler;
+depth = -100;
+invun = 3;

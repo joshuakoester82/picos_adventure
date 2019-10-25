@@ -1,0 +1,14 @@
+flag_on = false;
+tx = 0;
+ty = 0;
+orig_xscale = image_xscale;
+orig_yscale = image_yscale;
+amp =  0;
+time = 0;
+xscaler = 0;
+yscaler = 0;
+spd = random_range(15,20);
+image_index = irandom(4);
+time = random(1000);
+rnd_amp = random_range(0.1,0.4);
+xdir = choose(-1,1);

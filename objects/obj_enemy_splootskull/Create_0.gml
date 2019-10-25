@@ -1,0 +1,16 @@
+moveforce = 0;
+xspd = (random_range(-30,30)/image_xscale)*0.1;
+yspd = 0;
+acceleration = 0.1;
+xdecay = 0.95;
+grav = 0.1;
+HP = 10;
+invun = 0;
+lasthit = 0;
+scaler = image_xscale;
+tx = 1;
+ty = 1;
+xscaler = 1;
+yscaler = 1;
+flag_squishstate = false;
+squishbuffer = 15;

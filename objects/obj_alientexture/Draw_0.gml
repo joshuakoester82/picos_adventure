@@ -1,0 +1,10 @@
+var_time_var+=0.04;
+shader_set(shd_wave);
+    shader_set_uniform_f(uni_time, var_time_var);
+    shader_set_uniform_f(uni_resolution, var_resolution_x, var_resolution_y);
+    shader_set_uniform_f(uni_wave_amount, var_wave_amount);
+    shader_set_uniform_f(uni_wave_distortion, var_wave_distortion );
+    shader_set_uniform_f(uni_wave_speed, var_wave_speed);
+	shader_set_uniform_f(uni_alpha, var_alpha);
+   draw_self();
+shader_reset();

@@ -1,0 +1,11 @@
+tx = x + random_range(-300,300);
+ty = y + random_range(-300,300);
+xspd = random_range(-3,3);
+yspd = random_range(-3,3);
+spd = random_range(0.0001,0.01);
+image_speed = random_range(0.5,2);
+depth = -100;
+glitterbuffer = 0;
+tscale = 1;
+flag_grabbed = false;
+scaler = 1;
