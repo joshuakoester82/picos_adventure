@@ -2,6 +2,9 @@
 
 This is one of the first games I worked on in the GMS2 engine, and so it represents a huge learning experience for me. I find GML quick to learn, easy to use, and one of the best languages for quick 2D game development. 
 
+If you want to play the compiled game itself, you can check it out here:
+https://almightyzentaco.itch.io/picos-adventure
+
 ## Where is the code?
 
 Since this is a GMS2 project, the code can be found inside the game objects themselves. The core of the game logic centers around Pico, the player, and as such you should begin your journey inside obj_player. The player has different behaviours depending on his current state 'AKA: state machine' and so you can find the relevant code inside the scripts folder. The scripts are all sensibly named and making sense of them should be relatively straightforward.
