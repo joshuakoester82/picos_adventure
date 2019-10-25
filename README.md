@@ -14,4 +14,9 @@ I teach game development and programming on YouTube, and I wanted to share this 
 
 You are free to use any of the source code in your own projects. I reserve the rights to all art, sounds, images, characters, and title 'Pico's Adventure'. I hope that's not too much of an inconvenience.
 
+## Contact Me
 
+joshuakoester@gmail.com
+zentacoproductions@gmail.com
+* www.almightyzentaco.com
+* www.youtube.com/almightyzentaco
